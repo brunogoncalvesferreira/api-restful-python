@@ -11,7 +11,7 @@ Esta é uma API RESTful simples desenvolvida com Flask, que permite realizar ope
 
 1. Clone o repositório para a sua máquina local:
 ```git
-git clone https://github.com/brunogoncalvesferreira/api-restful-python
+git clone https://github.com/brunogoncalvesferreira/api-restful-python.git
 ```
 
 2. Navegue até o diretório do projeto:
